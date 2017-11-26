@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+		  "name": "Switch to fread",
+      "priority": -998,
+      "action": "./bin/launch.sh"
+    }
+  ]
+}
